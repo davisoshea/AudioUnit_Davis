@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AudioUnit(Ios).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>AudioUnit(iOS).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>AudioUnit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Basic_AudioUnit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>29423C3A1ECE082900A0106A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>29BAA1E31ECCD69E00A9C385</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>29F182F01ED5F3E100DEFD13</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>29F183031ED5F41300DEFD13</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
